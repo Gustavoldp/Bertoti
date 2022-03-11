@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T11:29:49.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" version="17.1.0" etag="omtGPS0RTkSj0gzZg1CD" type="github"><diagram id="_dvzVnLu20ZWK9G_BVNV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T11:41:51.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="4mAGP5_RJhFilqWWeVtS" version="17.1.0" type="github">
+  <diagram id="_dvzVnLu20ZWK9G_BVNV" name="Page-1">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-3" value="pesquisa" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-4" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="105" width="40" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6666FF;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-44.68" y="305.93" width="325" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.phone_1;" vertex="1" parent="1">
+          <mxGeometry x="96.25" y="332.18" width="43.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-1/256/backpack-thin-128.png;strokeColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-13" value="Tarefa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="78.12" y="275" width="73.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-14" value="Chamada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="96.25" y="350" width="43.75" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfn9Go4ptcfZ0sDyOM0s-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xfn9Go4ptcfZ0sDyOM0s-9" target="Xfn9Go4ptcfZ0sDyOM0s-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
