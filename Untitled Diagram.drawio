@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T11:16:25.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="64UmV76WsNIEeBAZhhge" version="17.1.0" type="github"><diagram id="ndaYQFfAOwYVD1xWlt_n" name="Page-1">5ZjZrpswEIafJpetwhKSXCY5q7ooUtTl1sEOWDIeZEyWPn2Hg8PmRKdVowNtr8A/4zH+ZowHj7xVcnxUJI0/AWVi5I7pceTdjVzXCQIXL4VyKpXp3C+FSHFqjGphw38wI46NmnPKspahBhCap20xBClZqFsaUQoObbMdiPaoKYmYJWxCImz1G6c6LtWZO631J8aj+DyyE8zLJwk5G5uZZDGhcGhI3v3IWykAXd4lxxUTBbwzl7Lfw5Wn1YspJvWvdHiYfM6f73ZfohT870+7rx/Wj8t3xsueiNxMeK1gx7IMlHlrfTqjwAmkxW2eiEWo0cBb7pnSHGF9JFsm1pBxzUGiyRa0hqRhsBA8Kh5oSFGNdSKw4eAt5FpwyVZV+MYompfCvux4dbZOxRCTj0HCtDqhiekwM9RN2rlj0z7UQfSMFDfiFxiNmLSJKsc1WbwxcH8DtGuBXohcwsgNBA693CLuINLV3P8R7P6kZ+y+hd3ie4i5ZpuUhEX7gF+xNimSpSWhHT8yehtKztRvYXIcG5PrX+BUiTcHNfkrQHlB76ACC9Sz5CEnqtiEYpIQSixy6Bb3K2wsX2F4C2Tz9hJ0XBvZ7C2X4NQChqXCfrC8Lu0Ub8prZvHacMGkSTGcGH7ZeUqkZsPiNuuZ29zihjujfoFGNN9zSmi/xDxnYCvz/D4NZCtIXjJMxC/gNBP9rs4us95Xp2NXzPdyX67NhMkM/weSYRHre106np1lqgQWqTyFQX3FvGnftOyKddj51T8xu3StiA3jw99Nskt/RW+LbOhFbDfJ+idmV7E2IEkXxYkTtkJBsoyHbS4KckmLP6PGzzaj1vHTq4waDCYXGJw1hXs3pn/b/SUwZoQ1cBy4TtruPuLO30/aTjLIVchMP7dx8tR11S0VbVdYp0VMW66QJzk1zNLCILOiWcH5gwDbZfd/FmB/erMAX3B1JcCvhw+b9RlpaV6fNHv3PwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T11:18:26.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="NwDRYkiOVBzQ3GmW1cNu" version="17.1.0" type="github">
+  <diagram id="ndaYQFfAOwYVD1xWlt_n" name="Page-1">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-1" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-2" value="Aluno&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="134" y="40" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="134" y="290" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-6" value="Iniciar chamada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-7" value="Gravar chamada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-8" value="Silenciar participante" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-9" value="Postar atividade" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-10" value="Compartilhar tela" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-11" value="Enviar mensagem" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-13" value="Criar grupo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-14" value="Enviar mensagem" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-15" value="Enviar atividade" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="380" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-16" value="Iniciar chamada" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="380" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="159.5" as="sourcePoint" />
+            <mxPoint x="150" y="159.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5NuIDfUgpo4XHfVKPGB-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="409.5" as="sourcePoint" />
+            <mxPoint x="150" y="409.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
