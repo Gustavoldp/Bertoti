@@ -12,6 +12,8 @@ Material da matéria engenharia de software 1
 ## Requisitos Não Funcionais
 
 
+<img src="https://github.com/Gustavoldp/Bertoti/blob/master/Euristicas.drawio.png">
+
 
 ## Diagrama de classe UML
 
