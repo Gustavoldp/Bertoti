@@ -12,14 +12,15 @@ Material da matéria engenharia de software 1
 ## Requisitos Não Funcionais
 
 
-<img src="https://github.com/Gustavoldp/Bertoti/blob/master/Euristicas.drawio.png">
+<img src="https://github.com/Gustavoldp/Bertoti/blob/master/euristicas.png">
 
 
 ## Diagrama de classe UML
 
-<img src = "https://github.com/oliveira-gabriele/bertoti/blob/main/Engenharia%20de%20Software%20I/UML.drawio.png">
+<img src = "">
 
 ~~~java
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -51,6 +52,8 @@ public class Plataforma de Ensino{
      }
 }
 
+
+
 public class Pessoa{
 	
 	private int ra;
@@ -59,8 +62,8 @@ public class Pessoa{
 	
 	public Pessoa(int ra, String nome, String tipo) {
 		this.ra = ra;
-		this.placa = placa;
-		this.espec = espec;
+		this.nome = nome;
+		this.tipo = tipo;
 	}
 
 
@@ -68,7 +71,7 @@ public class Pessoa{
 		return ra;
 	}
 	
-	public void setRa(String novaPlaca){
+	public void setRa(String novoRa){
 		ra = novoRa;
 	}
 
@@ -89,12 +92,14 @@ public class Pessoa{
 	}
 
 }
+
+
 public class Disciplina{
 	
 	private String matéria;
 		
-	public Pessoa(String matéria) {
-		this.placa = placa;
+	public Matéria(String matéria) {
+		this.matéria = matéria;
 	}
 
 	public String getMatéria(){
