@@ -17,7 +17,7 @@ Material da matéria engenharia de software 1
 
 ## Diagrama de classe UML
 
-<img src = "https://github.com/oliveira-gabriele/bertoti/blob/main/Engenharia%20de%20Software%20I/UML.drawio.png">
+<img src = "">
 
 ~~~java
 
