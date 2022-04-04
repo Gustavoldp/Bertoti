@@ -14,6 +14,13 @@ Material da matéria engenharia de software 1
 
 <img src="https://github.com/Gustavoldp/Bertoti/blob/master/euristicas.png">
 
+#2 Semelhança ao mundo real: Usar ícones que lembrem objetos do dia a dia para facilitar a locomoção do usuário.
+
+#7 Facilidade de uso: atalhos para facilitar a entrada em telas frequentemente visitadas ou para acelerar o processo para usuários mais experientes.
+
+#8 Design minimalista: evitar colocar informações desnecessárias para não assustar o usuário.
+
+
 
 ## Diagrama de classe UML
 
