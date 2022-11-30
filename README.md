@@ -10,9 +10,11 @@
     
  <h1>Google tradutor<h1/>
     <h3>Reconhecer a partir de elementos do mundo real, o tadutor possui elementos gráficos que indicam suas ações, como as setas que invertem os idiomas ou o alto falante que pronuncia a palavra desejada<h3/>
+  <p align="center">
+      <img src = "https://github.com/Gustavoldp/Bertoti/blob/master/IHC/googletradutor.png" >
+  </p>
       
-      <img src = "https://github.com/Gustavoldp/Bertoti/blob/master/IHC/googletradutor.png?raw=true" >
-  
+      
   <h1>Teams<h1/>
     <h3>Design minimalista, o teams tem um design que facilita a identificação para melhor navegação<h3/>
       <p align="center">
