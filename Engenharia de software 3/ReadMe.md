@@ -1,5 +1,5 @@
 
 
 <div align="center">
-  <img src="Engenharia de software 3/composite.png" width="700px"/>
+  <img src="https://github.com/Gustavoldp/Bertoti/blob/master/Engenharia%20de%20software%203/composite.png?raw=true" width="700px"/>
 </div>
